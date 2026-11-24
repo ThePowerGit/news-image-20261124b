@@ -19,7 +19,7 @@ one story from that day, in a different country and a different field:
 | Iran | Energy | Iran vows to reply to the US naval blockade of its oil exports |
 | Libya | Conflict | Ukrainian sea drones sink a Russian corvette at Benghazi |
 | Indonesia | Disaster | A candy factory fire in Banten kills 24, about 30 still missing |
-| Türkiye | Climate | COP31 in Antalya ends with no deal, the first time since 2009 |
+| Türkiye | Climate | COP31 in Antalya ends with no deal, after overtime |
 | South Korea | Education | The education minister quits over exam security and AI cheating |
 
 ## Run it
